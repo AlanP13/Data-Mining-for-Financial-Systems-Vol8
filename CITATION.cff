@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Data Mining for Financial Reconciliation and Exception Monitoring: An Anomaly-Detection Framework for Enterprise Financial Systems"
+abstract: >-
+  This monograph reframes enterprise financial reconciliation and exception
+  monitoring as explainable anomaly detection over engineered comparison
+  features, contributing a four-stage architecture, a design principle, an
+  evaluation of detection approaches, and a resilience mapping. Its distinctive
+  claim is that one explainable anomaly detector answers operations, security,
+  and compliance questions at once. Volume 8 of the Engineering-to-Research
+  monograph series.
+type: report
+authors:
+  - family-names: "Palayil"
+    given-names: "Alan Biju"
+    orcid: "https://orcid.org/0009-0004-8302-5090"
+    affiliation: "Independent Researcher; Doctoral Researcher, University of the Cumberlands"
+version: "1.0"
+date-released: "2026-06-09"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/AlanP13/Data-Mining-for-Financial-Systems-Vol8"
+keywords:
+  - financial data mining
+  - reconciliation
+  - exception monitoring
+  - anomaly detection
+  - RegTech
+  - continuous controls monitoring
+  - ETL
+  - cloud data warehouse
+  - explainable AI
+  - financial operations
+  - disaster recovery
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20802595"
+    description: "Zenodo DOI for version 1.0"
